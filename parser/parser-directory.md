@@ -1,7 +1,5 @@
 ---
-description: >-
-  Description for those interested in the parser/ directory of the Dawn
-  compiler.
+description: For those interested in the parser/ directory of the Dawn compiler.
 ---
 
 # 🎓 Parser directory
